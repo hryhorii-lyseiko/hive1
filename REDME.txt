@@ -1,0 +1,11 @@
+EXECUTION
+*Upload dataset into hdf than insert it into table.
+ (I done it with Ambari Hive View Upload Table.)
+*Partitioning table with partitions and use it table for executioning 1.2 and 1.3 tasks.
+*Change execution engine in Hive View setings betwin tez and mr to compare result and execution time.
+If you want execute queries on spark engine, you will execut it on Zeppelin noutebook,
+because you cant set spar like executin engine in settings of Ambari Hive View. 
+
+All queries in file 1.txt 
+All screenshots and results in folders 1.1-1.4
+Also screenshots can be something like a guid, how to run queries.
